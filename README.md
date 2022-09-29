@@ -22,7 +22,7 @@ Breast cancer detection
  </pre>
  ### project woekflow
  <br>Data Cleaning:
- We cleaned the Breast Cancer database which was obtained from the University of Wisconsin Hospitals.
+ We cleaned the Breast Cancer database which was obtained from the University of Wisconsin Hospitals.<br>
  <br>Building a classfier:
  we built a KNN classifier to predict the type of tumor based on based on the existing data.
  * The overall accuracy is 0.961352657004831 which means the model performs well in this scenario.
