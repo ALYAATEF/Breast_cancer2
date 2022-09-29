@@ -21,8 +21,8 @@ Breast cancer detection
  11. Class:                        (2 for benign, 4 for malignant)
  </pre>
  ### project woekflow
- <br>Data Cleaning:
+ Data Cleaning:<br>
  We cleaned the Breast Cancer database which was obtained from the University of Wisconsin Hospitals.<br>
- <br>Building a classfier:
+ <br>Building a classfier:<br>
  we built a KNN classifier to predict the type of tumor based on based on the existing data.
  * The overall accuracy is 0.961352657004831 which means the model performs well in this scenario.
