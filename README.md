@@ -1,12 +1,12 @@
-# Breast_Cancer2
-# project title
+### Breast_Cancer2
+### project title
 Breast cancer detection
-# Date created 
+### Date created 
 29/9/2022
-# creators
-<a href="https://github.com/nadamaisara">link text</a>
-<a href="https://github.com/ALYAATEF">Alyaa Atef</a>
-# This data has the following features:
+### creators
+* <a href="https://github.com/nadamaisara">Nada Maisara</a>
+* <a href="https://github.com/ALYAATEF">Alyaa Atef</a>
+### This data has the following features:
 <pre>
  1. Sample code number             id number
  2. Clump Thickness                1 - 10
@@ -20,7 +20,7 @@ Breast cancer detection
  10. Mitoses                       1 - 10
  11. Class:                        (2 for benign, 4 for malignant)
  </pre>
- # project woekflow
+ ### project woekflow
  Data Cleaning:
  We cleaned the Breast Cancer database which was obtained from the University of Wisconsin Hospitals.
  Building a classfier:
